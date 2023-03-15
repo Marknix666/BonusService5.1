@@ -52,7 +52,7 @@ public class BonusServiceTest {
 
 
         long amount = 1_000_000;
-        boolean registered = true;
+        boolean registered = false;
         long expected = 500;
 
 
